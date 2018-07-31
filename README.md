@@ -1,11 +1,7 @@
-# Using remark
 
-https://using-remark.gatsbyjs.org
+PR - https://github.com/gatsbyjs/gatsby/pull/6866
 
-Example site that demonstrates how to use [gatsby-transformer-remark][1] and its
-various plugins. It uses [Typography.js][2] and self-hosted fonts via the
-[Typefaces][3] project.
+Example site that demonstrates the fix to [gatsby-plugin-catch-links][1].
 
-[1]: https://www.gatsbyjs.org/packages/gatsby-transformer-remark/
-[2]: https://github.com/KyleAMathews/typography.js
-[3]: https://github.com/KyleAMathews/typefaces
+[1]: https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-catch-links
+
